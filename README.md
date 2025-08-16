@@ -56,3 +56,6 @@ The project was developed in Visual Studio Code, which made coding efficient wit
 Conclusion
 
 The Personal Portfolio Webpage successfully demonstrates the developer’s technical skills and creative approach to web design. It is not only a static résumé but also an interactive platform that can be shared with recruiters and peers. The project emphasizes responsive design, clean code practices, and professional presentation. Built entirely with HTML and CSS in VS Code, it reflects both technical ability and attention to detail, making it a valuable addition to the developer’s professional profile.
+
+#OUTPUT
+<img width="1919" height="930" alt="Image" src="https://github.com/user-attachments/assets/fad0cc76-a054-4881-a273-41a0a39b193c" />
